@@ -1,0 +1,39 @@
+/* jumbotron */
+.jumbotron {
+  background-image: url("../images/jumbotron.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 93vh;
+}
+
+.jumbotron .display-4 {
+  font-size: 42px;
+  font-weight: bold;
+}
+
+/* daftar harga */
+.daftar-harga {
+  margin-top: -150px;
+}
+
+.card {
+  width: 20rem;
+  /* margin-top: -150px; */
+}
+
+.card .display-4 {
+  font-size: 28px;
+}
+
+/* hr devider */
+.divider {
+  width: 150px;
+  border-bottom: 1px solid #0003;
+  border-top: none;
+}
+
+/* image cs */
+.img-cs {
+  width: 300px;
+}
